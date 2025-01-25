@@ -31,4 +31,11 @@ __DJIA_Table.csv__ - содержит данные биржи.
 __Reddit_News.csv__ - неранжированные заголовки новостей.    
 __sample_submission.csv__ - форма ответа для соревнования.    
 
+### Библиотеки
 
+<div id="badges">
+  <img src="https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas"/>
+  <img src="https://img.shields.io/badge/numpy-black?style=for-the-badge&logo=numpy"/>
+  <img src="https://img.shields.io/badge/sklearn-black?style=for-the-badge&logo=scikit-learn"/>
+  <img src="https://img.shields.io/badge/pytorch-black?style=for-the-badge&logo=pytorch"/>
+</div>
